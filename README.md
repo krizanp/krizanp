@@ -1,12 +1,66 @@
-<h1 align="center">Hi 👋, I'm Krizan Pokhrel</h1>
-- 🌱 I’m currently learning **C# and SQL**
+<!-- 🌙 Dark / Light Banner -->
 
-- 📫 How to reach me **krizanpokhrel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/krizanpokhrel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krizanpokhrel" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%2C%20I'm%20Krizan!%20👋&fontSize=40&fontAlignY=35"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+# 👨‍💻 QA Engineer | Cypress Learner | Curious Mind
+
+I'm a Quality Assurance Engineer who enjoys breaking things on purpose and fixing things accidentally.
+Currently leveling up with **Cypress** while sharpening my testing instincts.
+
+---
+
+## 🔧 Tech Stack & Tools
+
+**Testing:** Manual Testing • Test Cases • Bug Reports • Cypress • Postman
+**Frontend:** JavaScript • CSS • HTML
+**Tools:** Git • GitHub • JIRA • VS Code
+
+---
+
+
+
+<p align="left">
+  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cypress-Testing-success?style=for-the-badge&logo=cypress" />
+  <img src="https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript" />
+</p>
+
+---
+
+## 🧘 Vibe Code
+
+```js
+const krizan = {
+  mindset: "learn, break, fix, repeat",
+  comfortZone: "expanding",
+  learning: ["Cypress", "Git"],
+  energy: () => Math.random() > 0.3 ? "🔥" : "☕"
+};
+```
+
+---
+
+## 📊 GitHub Stats (Auto-Dark Mode ☀️🌙)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=krizanp&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krizanp" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krizanp&theme=github-dark&area=true" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+📧 Email: **[krizanpokhrel@gmail.com](mailto:krizanpokhrel@gmail.com)**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
