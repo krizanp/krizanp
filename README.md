@@ -13,8 +13,8 @@ Currently leveling up with **Cypress** while sharpening my testing instincts.
 
 ## 🔧 Tech Stack & Tools
 
-**Testing:** Manual Testing • Test Cases • Bug Reports • Cypress • Postman
-**Frontend:** JavaScript • CSS • HTML
+**Testing:** Manual Testing • Test Cases • Bug Reports • Cypress • Postman <br>
+**Frontend:** ReactJS • JavaScript • CSS • HTML <br>
 **Tools:** Git • GitHub • JIRA • VS Code
 
 ---
@@ -22,7 +22,7 @@ Currently leveling up with **Cypress** while sharpening my testing instincts.
 
 
 <p align="left">
-  <img src="https://img.shields.io/badge/QA-Quality%20Assurance-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/QA-Quality%20Assured-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cypress-Testing-success?style=for-the-badge&logo=cypress" />
   <img src="https://img.shields.io/badge/JavaScript-Beginner-yellow?style=for-the-badge&logo=javascript" />
 </p>
